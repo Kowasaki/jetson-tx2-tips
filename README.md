@@ -5,7 +5,7 @@ A collection of solutions I found while trying to make stuff run on the TX2
 ## Pre-built wheels for Python 2.7
 - [1.3 and 1.5](https://github.com/JesperChristensen89/TensorFlow-Jetson-TX2)
 
-#OpenCV
+# OpenCV
 ## Installation
 Follow tips from JetsonHacks [here](https://github.com/jetsonhacks/buildOpenCVTX2)
 
