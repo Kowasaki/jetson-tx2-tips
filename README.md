@@ -1,7 +1,7 @@
 # jetson-tx2-tips
 A collection of solutions I found while trying to make stuff run on the TX2
 
-#TensorFlow
+# TensorFlow
 ## Pre-built wheels for Python 2.7
 - [1.3 and 1.5](https://github.com/JesperChristensen89/TensorFlow-Jetson-TX2)
 
